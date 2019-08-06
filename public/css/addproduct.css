@@ -1,0 +1,33 @@
+.formStyle {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.partContainer{
+  width: 30%;
+  margin: auto;
+  text-align: left;
+}
+
+.inputField {
+  width: 100%;
+  border: 1.5px solid #2e2424;
+  border-radius: 4px;
+  outline: none;
+  padding-left: 5px;
+  height: 1rem
+}
+
+.buttonStyle {
+  border: 1.5px solid #241d1d;
+  border-radius: 4px;
+  color: whitesmoke;
+  background-color: #241d1d;
+  height: 20px;
+  outline: none;
+}
+
+.buttonStyle:hover { 
+  background-color: #b26eff;
+  color: black;
+}
